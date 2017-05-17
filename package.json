@@ -33,7 +33,7 @@
   ],
   "peerDependencies": {
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0"
+    "react-native": "0.43.4"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
